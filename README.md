@@ -12,6 +12,8 @@ Comments have been placed within the scripts to get a better understanding of th
 
 Code has been provided in C# and built with the MonoDevelop Editor that comes with Unity.
 
+The tutorial is useful for people who have just installed Unity3D and want a practical lesson in navigating around the new development environment.
+
 ## Links
 
 The links below have been helpful to me during the development of this project.
